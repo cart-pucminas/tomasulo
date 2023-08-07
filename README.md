@@ -18,6 +18,11 @@ In this project the Branch is always considered as taken, and its Branch value (
     <li> [Thiago de Campos Ribeiro Nolasco](https://github.com/Theeeccoo)</li>
 </ul>
 
+## Advisor
+<ul>
+	<li> [Henrique Cota de Freitas](https://github.com/hcfreitas)</li>
+</ul>
+
 ## Features
 <ul>
     <li> Detailed simulation of Tomasulo's Algorithm, including out-of-order execution, hazard control and branch prediction.</li>
@@ -27,7 +32,7 @@ In this project the Branch is always considered as taken, and its Branch value (
 
 ## Installation
 <ol>
-    <li> Clone the repository: `git clone https://github.com/Theeeccoo/Tomasulo-s-algorithm-simulator.git`</li>
+    <li> Clone the repository: `git clone https://github.com/cart-pucminas/tomasulo.git`</li>
     <li> Navigate to the project directory: `cd Tomasulo-s-algorithm-simulator`</li>
     <li> Install the required dependencies (IF NEEDED): `sudo bash build`</li>
 </ol>
